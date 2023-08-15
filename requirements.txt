@@ -1,0 +1,5 @@
+# Python version 3.11
+psutil==5.9.5
+PyGetWindow==0.0.9
+pycaw==20230407
+pywin32==306
